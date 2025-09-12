@@ -48,8 +48,3 @@ sprint-01-python-basics/
 
 - `README.md` – Project documentation and overview  
 - `sprint-01-python-basics.ipynb` – Jupyter Notebook containing all tasks and solutions  
-
----
-
-## 📄 License
-This project is for educational purposes only and uses a fictional e-commerce dataset for practice.

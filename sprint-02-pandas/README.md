@@ -1,4 +1,4 @@
-# 🐼 Sprint 02 - Pandas
+# Sprint 02 - Pandas
 
 ## 📌 Project Overview
 This project is part of the TripleTen Data Analytics Post Graduation (Sprint 02).  
@@ -49,8 +49,5 @@ sprint-02-pandas/
 ├── README.md  
 └── sprint-02-pandas.ipynb  
 
-README.md – Project documentation and overview
-sprint-02-pandas.ipynb – Jupyter Notebook containing all tasks and solutions
-
-## 📄 License
-This project is licensed under the MIT License.
+- `README.md` –  Project documentation and overview  
+- `sprint-02-pandas.ipynb` – Jupyter Notebook containing all tasks and solutions
