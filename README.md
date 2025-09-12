@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Mateus Sibila!</h1>
 
-**<a href="https://www.linkedin.com/in/mateussibilaromano/">Data Analyst</a>** with a background in mechanical engineering, focused on applying machine learning, predictive modeling, and statistical analysis to solve complex problems and generate valuable insights from diverse datasets.  
+**<a href="https://www.linkedin.com/in/mateussibilaromano/">Data Analyst</a>** with a background in mechanical engineering, skilled in data analysis, visualization, statistical modeling, and applying machine learning to generate insights and support decision-making from diverse datasets.  
 Based in Ireland 🇮🇪
 
 ## 🎓 Education
