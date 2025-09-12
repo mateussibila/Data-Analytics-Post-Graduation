@@ -39,22 +39,6 @@ The tasks included string manipulation, working with lists and numbers, implemen
 
 ---
 
-## 🔹 Reviewer Comments
-
-<div class="alert alert-block alert-success">
-<b>Comment:</b> Great job completing all tasks! Efficient use of Python built-ins and loops.
-</div>
-
-<div class="alert alert-block alert-warning">
-<b>Comment:</b> You could improve readability by using f-strings instead of `.format()` for string formatting.
-</div>
-
-<div class="alert alert-block alert-info">
-<b>Student Response:</b> Will refactor the code in future projects using f-strings for clarity.
-</div>
-
----
-
 ## 📂 Repository Structure
 
 sprint-01-python-basics/  
